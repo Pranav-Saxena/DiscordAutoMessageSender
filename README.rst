@@ -5,6 +5,7 @@ A Python Program to send messages in an automated manner on discord
 Here is the code to do the task
 
 .. code:: py
+
   #---Note-- 
   #You'll need to leave your desktop/laptop idle after running this program , otherwise this won't work
 
